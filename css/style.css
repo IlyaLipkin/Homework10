@@ -1,0 +1,210 @@
+.header {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 50px;
+}
+
+.menu-icon {
+    width: 24px;  
+    height: 32px;
+}
+
+.intro {
+    height: 815px;
+    background-image: url(../img/vcvv-min.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-top: 208px;
+    box-sizing: border-box;
+}
+
+.nav-menu {
+    margin-bottom: 20px;
+}
+
+.nav-menu__list__item {
+    margin-right: 10px;
+}
+
+ul {
+    padding-bottom: 40px;
+}
+
+.benefits {
+    padding: 80px;
+}
+
+.benefits-second-conteiner {
+    position: relative;
+    padding-top: 26%;
+    margin-right: 230px;
+}
+
+.play-img {
+    width: 557;
+    height: 557;
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+    margin-left: 100px;
+}
+
+.joyC-img {
+    width: 310;
+    height: 310; 
+    border-radius: 50%;
+    border: 7px solid #fff;
+}
+
+.benefits-third-conteiner {
+    margin-left: 350px;
+}
+
+.benefits-list {
+    background: url(../img/man.jpg);
+    height: 812px;
+}
+
+.benefits-block {
+    height: 642px;
+    margin-right: 70px;
+    padding-top: 90px;
+}
+
+.benefits-list-item {
+    background-color: #fff;
+    width: 635px;
+    height: 199px;
+}
+
+.top-list {
+    height: 812px;
+}
+
+.rect {
+    width: 1372px;
+    height: 485px;
+    position: absolute;
+    z-index: -1;
+    margin: 320px 30px auto 30px;
+}
+
+.woman-img {
+    width: 868px;
+    height: 609px;
+    display: block;
+    margin: 80px auto auto 287px;
+    position: absolute;
+    z-index: 0;
+} 
+
+.top-pc-card {
+    position: absolute;
+    z-index: 100;
+    margin: 560px auto auto 100px;
+}
+
+.gadgets {
+    height: 812px;
+    background: url(../img/joystic.jpeg);
+    background-size: cover;
+    margin-top: 235px;
+    padding-left: 30px;
+}
+
+.download {
+    height: 813px;
+}
+
+.download-text-conteiner {
+    width: 680px;
+    text-align: center;
+    margin: 65px auto 0 auto;
+}
+
+.img-down-conteiner {
+    width: auto;
+    padding: 0 60px 0 30px;
+}
+
+.woman-img-down {
+    width: 310;
+    height: 310; 
+    border-radius: 50%;
+}
+
+.girl-img-down {
+    width: 310;
+    height: 310; 
+    border-radius: 50%;
+}
+
+.boy-img-down {
+    width: 526;
+    height: 526;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    margin: 125px 0 0 125px;
+}
+
+.circles-download {
+    position:absolute;
+    z-index: 100;
+}
+
+.vr-tech {
+    height: 813px;
+    background-color: #332e29;
+    margin-top: 150px;
+}
+
+.vr-rect {
+    width: 377px;
+    height: 813px;
+    background-color: #e4bb8d;
+    position: absolute;
+    left: 621px;
+    z-index: 0;
+}
+
+.vrguys-img {
+    width: 731px;
+    height: 511px;
+    position: relative;
+    left: 432px;
+    bottom: 158px;
+}
+
+.vr-card {
+    position: relative;
+    z-index: 2;
+    top: 80px;
+    left: 30px;
+}
+
+.contact {
+    height: 757px; 
+    padding: 50px 30px;
+}
+
+.contact-form-conteiner {
+    width: 548px;
+    padding: 30px;
+}
+
+.vrboy-img {
+    height: 759px;
+}
+
+.messenger-img {
+    width: 188px;
+    height: 32px;
+}
+
+.footer {
+    height: 143px;
+    background-color: #333333;
+    font-family: 'Open Sans', sans-serif;
+}

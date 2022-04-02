@@ -1,0 +1,105 @@
+.intro__heading {
+    font-size: 72px;
+    width: 750px;
+    margin: 0 auto 40px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-menu__list{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.BoVG {
+    width: 775px;
+    height: 185px;
+    margin-top: 95px;
+    font-size: 60px;
+    text-align: end;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.benefits-list-item-head {
+    font-size: 36px;
+    width: 575px;
+    margin: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.benefits-list-item-text {
+    font-size: 20px;
+    margin: 30px;
+    color: #b8b8b8;
+    width: 575px;
+    line-height: 37px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-heading-pc {
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-text-pc {
+    font-size: 20px;
+    margin-bottom: 50px;
+    color: #b8b8b8;
+    font-family: 'Open Sans';
+    font-style: italic;
+    line-height: normal;
+}
+
+.gadgets__heading {
+    font-size: 72px;
+    width: 423px;
+    padding-top: 90px;
+    font-family: 'Ubuntu';
+    font-weight: 500;
+}
+
+.download-heading {
+    font-size: 36px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card-text-down {
+    font-size: 20px;
+    margin-bottom: 52px;
+    color: #b8b8b8;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+
+.card-text-vr {
+    font-size: 20px;
+    margin-bottom: 74px;
+    letter-spacing: 0.4px;
+    color: #b8b8b8;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+
+.contact-heading {
+    width: 548px;
+    font-size: 36px;
+    color: #4d4d4d;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.follow-heading {
+    width: 339px;
+    font-size: 36px;
+    color: #4d4d4d;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-text {
+    width: 417px;
+    font-size: 14px;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+}
